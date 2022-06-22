@@ -11,8 +11,7 @@ try:os.system('mkdir /sdcard/4MBF-DATA/TAP-A2F')
 except:pass
 try:os.system('touch .prox.txt')
 except:pass
-print("\n\x1b[1;92m Bypass By Krishna + Subhan! \033[1;37m")
-print("\n\x1b[1;92m Sorry For Bypass 😅 \033[1;37m")
+
 if __name__ == "__main__":
         try:
                 __import__("aorec").login_lagi334()
